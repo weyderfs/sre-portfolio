@@ -9,7 +9,7 @@ Este espaço contém meu portfólio profissional, destacando meus projetos, habi
 
 **Por favor, escolha o idioma desejado para visualizar o portfólio completo:**
 
-* [Português (Brasil)](https://github.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO/tree/pt-br)
+* [Português (Brasil)](https://github.com/weyderfs/sre-portfolio/tree/pt-br)
 * [English (US)](https://github.com/SEU_USUARIO_GITHUB/SEU_REPOSITORIO/tree/en-us)
 
 ---
