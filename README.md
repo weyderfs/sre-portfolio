@@ -14,7 +14,7 @@ Este espaço contém um pouco da minha história e meu portfólio profissional, 
 
 ---
 
-## English
+## 🇺🇸🇬🇧 English
 
 Welcome to my professional portfolio repository!
 
