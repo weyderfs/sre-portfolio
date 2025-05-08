@@ -10,7 +10,7 @@ Este espaço contém um pouco da minha história e meu portfólio profissional, 
 **Por favor, escolha o idioma desejado para visualizar o portfólio completo:**
 
 * [Português (Brasil)](https://github.com/weyderfs/sre-portfolio/tree/pt-br)
-* [English (US)](https://github.com/weyderfs/sre-portfolio/tree/tree/en-us)
+* [English (US)](https://github.com/weyderfs/sre-portfolio/tree/en-us)
 
 ---
 
@@ -24,7 +24,7 @@ This space contains a bit of my story and my professional portfolio, highlightin
 
 **Please, choose the desired language to view the complete portfolio:**
 
-* [English](https://github.com/weyderfs/sre-portfolio/tree/tree/en-us)
+* [English](https://github.com/weyderfs/sre-portfolio/tree/en-us)
 * [Brazilian Portuguese](https://github.com/weyderfs/sre-portfolio/tree/pt-br)
 
 
