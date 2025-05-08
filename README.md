@@ -23,7 +23,7 @@ Em 2015 concluo minha graduação em Gestão de T.I e sigo estudando em cursos p
 Em 2016 tiro minha primeira ceritifação Linux a [LPIC-1](https://www.lpi.org/pt-br/our-certifications/lpic-1-overview), compostas por duas provas 101-500 que gabaritei e a 102-500 que tive mais de 85% de acertos. Agradeço até hoje ao meu professor Fernando pelas excelentes aulas que ele ministrou no Senac.
 
 <p align="center" width="100%">
-    <img width="60%"src="assets/lpic1.png" />
+    <img width="60%"src="https://github.com/weyderfs/sre-portfolio/blob/main/assets/lpic1.png?raw=true" />
 </p>
  
  Em seguida começo meu preparatório para tirar a [LPIC-2](https://www.lpi.org/pt-br/our-certifications/lpic-2-overview) e também finalizava meu curso da CISCO CCENT.
@@ -67,7 +67,7 @@ Com as habilidades que fui adquirindo trabalhando com IaC, senti uma forte neces
 ### Módulos para AWS
 
 <p align="left" width="100%">
-    <img width="10%"src="assets/aws01.png" />
+    <img width="10%" src="https://github.com/weyderfs/sre-portfolio/blob/main/assets/aws01.png?raw=true" />
 </p>
  
 - **Repositório:** [GitHub](https://github.com/weyderfs/terraform-aws-modules)
@@ -76,7 +76,7 @@ Com as habilidades que fui adquirindo trabalhando com IaC, senti uma forte neces
 ### Módulos para Datadog
 
 <p align="left" width="100%">
-    <img width="10%"src="assets/dd01.png" />
+    <img width="10%" src="https://github.com/weyderfs/sre-portfolio/blob/main/assets/dd01.png?raw=true" />
 </p>
 
 - **Repositório:** [GitHub](https://github.com/weyderfs/terraform-datadog-modules)
@@ -85,7 +85,7 @@ Com as habilidades que fui adquirindo trabalhando com IaC, senti uma forte neces
 ### Módulos para Spot IO
 
 <p align="left" width="100%">
-    <img width="18%"src="assets/spot01.png" />
+    <img width="18%"src="https://github.com/weyderfs/sre-portfolio/blob/main/assets/spot01.png?raw=true" />
 </p>
 
 - **Repositório:** [GitHub](https://github.com/weyderfs/terraform-spot-modules)
