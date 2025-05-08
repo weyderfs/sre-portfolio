@@ -24,9 +24,8 @@ This space contains a bit of my story and my professional portfolio, highlightin
 
 **Please, choose the desired language to view the complete portfolio:**
 
+* [English](https://github.com/weyderfs/sre-portfolio/tree/tree/en-us)
 * [Brazilian Portuguese](https://github.com/weyderfs/sre-portfolio/tree/pt-br)
-* [English (US)](https://github.com/weyderfs/sre-portfolio/tree/tree/en-us)
-
 
 
 
