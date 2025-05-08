@@ -3,7 +3,7 @@
 ## Sobre um pouco da minha história
 
 <p align="center" width="100%">
-    <img width="60%"src="assets/asset01.jpg" />
+    <img width="60%"src="https://github.com/weyderfs/sre-portfolio/blob/main/assets/asset01.jpg?raw=true" />
 </p>
 
 Olá eu sou o Weyder, venho de familia humilde, comecei a trabalhar com T.I em 2007, ainda na fase da adolescência, após um tio me presentear com um curso de Montagem, Manutenção & Redes de Computadores em uma unidade da Microlins que havia na minha cidade. Até então não imaginava que iria ser um profissional de infraestrutura de T.I, sonhava em ser mecânico automotivo, mas cursando as diciplinas me apaixonei pela coisa, pois começava a entender como funcionava um computador do _hardware_ ao _software_ e depois as redes de comunicação.
